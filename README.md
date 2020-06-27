@@ -2,3 +2,5 @@
 
 # OpenCore-GA-H81m-s2h
 Opencore EFI folder for Gigabyte GA-H81M-S2H Board
+
+- USB not full working, test and create your USBPorts.kext with hackintool or guide: https://dortania.github.io/USB-Map-Guide/
